@@ -4,3 +4,4 @@ ls
 nproc
 lscpu
 lsblk
+uname -r
