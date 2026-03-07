@@ -2,6 +2,6 @@
 pwd
 ls
 nproc
-lscpu
+lscpu -
 lsblk
 uname -r
